@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Over the 5 years that I have been into Data Sciences and Machine Learning, the core thing I have learnt is to solve business problems. I am into building and executing solutions, that are fast paced and scalable. Unbounded by tech stacks, I aim to get systems up and running and establish quick feedback loops to generate lasting impact.\nAt Shiprocket, I have custom built data heavy and scalable ML pipelines, solving problems in realms of Tabular ML, NLP and time-series forecastings. Before this, I had a short stint at an Ed-Tech company, where I did a lot of clustering, segmentation and data crunching, besides building some dashboards (used by CxO folks). I began and evolved into data from EXL, where I transformed multiple slow and monolithic pre-existing data projects built in propriety tools into fast, modular, interpretable and user-friendly solutions.\nIn general, I command strong hold in building and setting up data intensive solutions. Some of my key projects are listed here.\nI have no defined interests 🙈 and take up and try different things. Trying to keep a memoir here. Besides that, I am a watch afficionado and 🍺 buff."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Over time, I have got hands dirty in projects from multiple realms. Here is a snapshot."
+  },
+  {
+    "objectID": "projects.html#professional",
+    "href": "projects.html#professional",
+    "title": "Projects",
+    "section": "Professional",
+    "text": "Professional\n\nGenerative AI\nAlgo/Tools/Libraries Used: langchain,GPTs, OpenAI, Vector DataStores,whisper,gpt-4,LLaMA\n\nA RAG application that answers customer queries around their ecommerce orders and logistic updates. Impact: Reduced the number of agent call service requests by 7.6%.\n\n\n\nTabular Machine Learning\nAlgo/Tools/Libraries Used: pandas,polars,xgboost,catboost,scikit-learn,rapids,dask,AWS Sagemaker,S3,ELK\n\n[SRT] An ML pipeline that predicts a customers propensity to reject an ecommerce order at delivery. Link\nImpact: Saved over 35MM in shipping costs for over 250+ D2C sellers.\n[SRT] An ML solution combining NLP and tabular data analysis to identify fraudulent seller behaviors.\nImpact: Achieved 18% reduction in fraud cases of multiple categories (KYC, Weight Fraud etc).\n[WHJ] A classifier model to identify promising retention leads for sales pitch prioritization.\nImpact: Enhanced retention performance by 8%.\n[EXL] A suite of 12 ML models for an insurance client, that aims to mark a potential customers:\n\npropensity to respond and convert to a marketing campaign.\nestimated chargeable premium and loss ratio, if converted.\nImplemented an automated 1-window customer selection and offer allocation framework on top of models.\nImpact: The process boosted performance by +27%.\n\n\n\n\nNatural Language Processing\nAlgo/Tools/Libraries Used: PyTorch, BERT, Word2Vec, NER, nltk, flashtext, gensim, rapidfuzz,transformers,sentiment analysis,semantic search, clustering, text similarity\n\n[SRT] An unsupervised learning framework to enchance, standardise and validate over 6MM delivery addresses.\nImpact: A SoTA address intelligence agent that can successfully parse over 100K localities from 500+ Indian districts.\n[SRT] Developed an address deduplication and syntax correction pipeline, whole suite led to +20% increased deliveries.\nImpact: Successful identification of customers belonging to same household, leading to enhanced customer segmentations.\n\n[SRT] Engineered an intelligent system for instant product categorization, categorising over 1.3 million uniquely named products.\nImpact: Categorisation helped in better targeting for our other products.\n\n\n\nClustering and Segmentation\nAlgo/Tools/Libraries Used: DBSCAN,k-means,sklearn,ANOVA,noSQL,mongo\n\n[SRT] Created a custom seller segmentation for 100K+ D2C sellers registered on the platform.\n[SRT] Designed a novel clustering method to segregate over 100 million unique buyers for tagging and behavioral analysis.\n[WHJ] An SQL-based segmentation for improved student-teacher mappings, for better learning outcomes.\n\n\n\nForecasting and Geo-Spatial\nAlgo/Tools/Libraries Used: fb-prophet,time-series analysis, ARIMA, kepler, geopandas,scipy,statmodels,spatial-clustering\n\n[SRT] Probed hyper-local e-commerce geo-coordinate data to identify ideal locations for dark stores.\n\n[SRT] Undertook demand forecasting for fast moving goods for enhanced control over inventory and order management.\n\n\n\nMiscellaneous\nAlgo/Tools/Libraries Used: SQL,Redshift,Tableau,Snowflake,Excel,Google Workspace APIs\n\n[ALL] Data Pipelines to establish data for training and to update the features for inference.\n[ALL] Custom dashboards and reports in GSheets and Tableau to track performance of models and raise flags for changes.\n[EXL] Uncoverted unoptimised SAS-based code to R and Python modules, for faster processing and cheaper executions by saving license costs.\n[EXL] Optimised SQL data processing pipelines from Oracle to Redshift."
+  },
+  {
+    "objectID": "projects.html#personal",
+    "href": "projects.html#personal",
+    "title": "Projects",
+    "section": "Personal",
+    "text": "Personal\n\nGenerative AI\n\nA audio to text ML app that converts expenses to JSON and builds a custom report. Link\n\n\n\nSoftware Development\n\nA bot that sends automated verses from Bhagvad Gita to a custom self maintained mailing lists.\nAn attempt to run a local file hosting via NextCloud and ad-blocker, pihole over my Raspberry Pi.\n\n\n\nSelf Hosting\n\nA dedicated setup running commonly used apps over a on premise system and exposed to custom domain. Link\n\nGithub: Repo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yash Gupta",
+    "section": "",
+    "text": "Hi 👋 ! I am Yash Gupta, currently working as a Senior Data Scientist at Shiprocket in the realms of Logistics and E-Commerce.\nI have been digging data and building solutions around it for over 5 years now. My core areas of expertise is in traditional ML and I am actively venturing into the realms of Artificial Intelligence. You can find more details about me here.\nPlease feel free to reach out to me over LinkedIn or X."
+  }
+]
