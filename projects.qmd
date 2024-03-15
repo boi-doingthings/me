@@ -1,0 +1,76 @@
+---
+title: "Projects"
+---
+Over time, I have got hands dirty in projects from multiple realms. Here is a snapshot.
+
+> SRT : Shiprocket  || WHJ : Whitehat Jr || EXL: EXL Services
+
+## Professional
+### Generative AI  
+*Algo/Tools/Libraries Used:* `langchain`,`GPTs`, `OpenAI`, `Vector DataStores`,`whisper`,`gpt-4`,`LLaMA`
+
+* A RAG application that answers customer queries around their ecommerce orders and logistic updates.
+  **Impact**: Reduced the number of agent call service requests by 7.6%.  
+
+### Tabular Machine Learning
+*Algo/Tools/Libraries Used:* `pandas`,`polars`,`xgboost`,`catboost`,`scikit-learn`,`rapids`,`dask`,`AWS Sagemaker`,`S3`,`ELK`
+
+* [SRT] An ML pipeline that predicts a customers propensity to reject an ecommerce order at delivery. [Link](https://www.shiprocket.in/sense/)  
+  **Impact**: Saved over 35MM in shipping costs for over 250+ D2C sellers.
+* [SRT] An ML solution combining NLP and tabular data analysis to identify fraudulent seller behaviors.  
+  **Impact**: Achieved 18% reduction in fraud cases of multiple categories (KYC, Weight Fraud etc).
+* [WHJ] A classifier model to identify promising retention leads for sales pitch prioritization.  
+  **Impact**: Enhanced retention performance by 8%. 
+* [EXL] A suite of 12 ML models for an insurance client, that aims to mark a potential customers:  
+  - propensity to respond and convert to a marketing campaign.
+  - estimated chargeable premium and loss ratio, if converted.  
+  Implemented an automated 1-window customer selection and offer allocation framework on top of models.    
+  **Impact**:  The process boosted performance by +27%.
+
+
+### Natural Language Processing
+*Algo/Tools/Libraries Used:* `PyTorch`, `BERT`, `Word2Vec`, `NER`, `nltk`, `flashtext`, `gensim`, `rapidfuzz`,`transformers`,`sentiment analysis`,`semantic search`, `clustering`, `text similarity`
+
+* [SRT] An unsupervised learning framework to enchance, standardise and validate over 6MM delivery addresses.  
+  **Impact**: A SoTA address intelligence agent that can successfully parse over 100K localities from 500+ Indian districts.
+* [SRT] Developed an address deduplication and syntax correction pipeline, whole suite led to +20% increased deliveries.  
+  **Impact**: Successful identification of customers belonging to same household, leading to enhanced customer segmentations.  
+* [SRT] Engineered an intelligent system for instant product categorization, categorising over 1.3 million uniquely named products.  
+  **Impact**: Categorisation helped in better targeting for our other products.
+
+### Clustering and Segmentation
+*Algo/Tools/Libraries Used:* `DBSCAN`,`k-means`,`sklearn`,`ANOVA`,`noSQL`,`mongo`
+
+* [SRT] Created a custom seller segmentation for 100K+ D2C sellers registered on the platform.
+* [SRT] Designed a novel clustering method to segregate over 100 million unique buyers for tagging and behavioral analysis.
+* [WHJ] An SQL-based segmentation for improved student-teacher mappings, for better learning outcomes.
+
+### Forecasting and Geo-Spatial
+*Algo/Tools/Libraries Used:* `fb-prophet`,`time-series analysis`, `ARIMA`, `kepler`, `geopandas`,`scipy`,`statmodels`,`spatial-clustering`  
+
+* [SRT] Probed hyper-local e-commerce geo-coordinate data to identify ideal locations for dark stores.  
+* [SRT] Undertook demand forecasting for fast moving goods for enhanced control over inventory and order management.
+
+### Miscellaneous  
+*Algo/Tools/Libraries Used:* `SQL`,`Redshift`,`Tableau`,`Snowflake`,`Excel`,`Google Workspace APIs`
+
+* [ALL] Data Pipelines to establish data for training and to update the features for inference.
+* [ALL] Custom dashboards and reports in GSheets and Tableau to track performance of models and raise flags for changes.
+* [EXL] Uncoverted unoptimised SAS-based code to R and Python modules, for faster processing and cheaper executions by saving license costs.
+* [EXL] Optimised SQL data processing pipelines from Oracle to Redshift.
+
+
+## Personal 
+
+### Generative AI    
+* A audio to text ML app that converts expenses to JSON and builds a custom report. [Link](https://huggingface.co/spaces/boi-doingthings/expense-converter)  
+    
+### Software Development    
+* A bot that sends automated verses from Bhagvad Gita to a custom self maintained mailing lists.
+* An [attempt](https://github.com/boi-doingthings/raspi-stack) to run a local file hosting via [NextCloud](https://hub.docker.com/_/nextcloud) and ad-blocker, pihole over my Raspberry Pi.        
+
+### Self Hosting
+* A dedicated setup running commonly used apps over a on premise system and exposed to custom domain. [Link](heimdall.hsay.in)
+  * Github: [Repo](https://github.com/boi-doingthings/self-hosted-stack) 
+
+

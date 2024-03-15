@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Boi"
+  open-graph: true
+  google-analytics: "G-02HGXDGX80"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: https://drive.google.com/file/d/1h0VFtINFoqiNf1DJ8rpCWTyZB7l01peB/view?usp=drive_link
+        text: Resume
+    right: 
+      - icon: twitter
+        href: https://twitter.com/boi_doingthings
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nitkgupta/
+      - icon: github
+        href: https://github.com/boi-doingthings
+      - icon: instagram
+        href: https://www.instagram.com/boi_doingthings/
+      - icon: rss
+        href: blog/index.xml      
+        
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
