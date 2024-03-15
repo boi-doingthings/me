@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 Over the 5 years that I have been into Data Sciences and Machine Learning, the core thing I have learnt is to solve business problems. I am into building and executing solutions, that are fast paced and scalable. Unbounded by tech stacks, I aim to get systems up and running and establish quick feedback loops to generate lasting impact.
@@ -9,6 +9,8 @@ At [Shiprocket](https://www.shiprocket.in/), I have custom built data heavy and 
 In general, I command strong hold in building and setting up data intensive solutions. Some of my key projects are listed [here](projects.html). 
 
 I have no defined interests 🙈 and take up and try different things. Trying to keep a memoir [here](). Besides that, I am a watch afficionado and 🍺 buff.
+
+I also try to maintain some lists for my [books](lists/books.html), [movies](lists/movies.html) and [playlists](lists/playlists.html).
 
 
 
