@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "certificates.html",
+    "href": "certificates.html",
+    "title": "Certifications",
     "section": "",
-    "text": "Over the 5 years that I have been into Data Sciences and Machine Learning, the core thing I have learnt is to solve business problems. I am into building and executing solutions, that are fast paced and scalable. Unbounded by tech stacks, I aim to get systems up and running and establish quick feedback loops to generate lasting impact.\nAt Shiprocket, I have custom built data heavy and scalable ML pipelines, solving problems in realms of Tabular ML, NLP and time-series forecastings. Before this, I had a short stint at an Ed-Tech company, where I did a lot of clustering, segmentation and data crunching, besides building some dashboards (used by CxO folks). I began and evolved into data from EXL, where I transformed multiple slow and monolithic pre-existing data projects built in propriety tools into fast, modular, interpretable and user-friendly solutions.\nIn general, I command strong hold in building and setting up data intensive solutions. Some of my key projects are listed here.\nI have no defined interests 🙈 and take up and try different things. Trying to keep a memoir here. Besides that, I am a watch afficionado and 🍺 buff.\nI also try to maintain some lists for my books, movies and playlists."
+    "text": "Technical Courses\n\nRust Programming\nMachine Learning Modeling Pipelines in Production\nMachine Learning Data Lifecycle in Production\nMarketing Analytics\nCustomer Segmentations\nCustomer Churn Prediction\nTime Series Analysis\nGeneralised Linear Models\nGeneralized AutoRegressive Conditional Heteroskedasticity (GARCH) Models"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yash Gupta",
+    "section": "",
+    "text": "Hi 👋 ! I am Yash Gupta, currently working as a Senior Data Scientist at Shiprocket in the realms of Logistics and E-Commerce.\nI have been digging data and building solutions around it for over 5 years now. My core areas of expertise is in traditional ML and I am actively venturing into the realms of Artificial Intelligence. You can find more details about me here.\nPlease feel free to reach out to me over LinkedIn or X."
+  },
+  {
+    "objectID": "lists/movies.html",
+    "href": "lists/movies.html",
+    "title": "Movies",
+    "section": "",
+    "text": "Filmography\n\nDune\nInterstellar\nOppenheimer\n\n\n\nStory"
+  },
+  {
+    "objectID": "lists/playlists.html",
+    "href": "lists/playlists.html",
+    "title": "Playlists",
+    "section": "",
+    "text": "Apple Music\n\nChill Time\n\nParty Mix\n\nDivine Chants \nClassic Collection\n\nMood Setter"
   },
   {
     "objectID": "projects.html",
@@ -28,31 +49,10 @@
     "text": "Personal\n\nGenerative AI\n\nA audio to text ML app that converts expenses to JSON and builds a custom report. Link\n\n\n\nSoftware Development\n\nA bot that sends automated verses from Bhagvad Gita to a custom self maintained mailing lists.\nAn attempt to run a local file hosting via NextCloud and ad-blocker, pihole over my Raspberry Pi.\n\n\n\nSelf Hosting\n\nA dedicated setup running commonly used apps over a on premise system and exposed to custom domain. Link\n\nGithub: Repo"
   },
   {
-    "objectID": "lists/books.html",
-    "href": "lists/books.html",
-    "title": "Books",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Everyday Ayurveda\nFreakonomics"
-  },
-  {
-    "objectID": "lists/playlists.html",
-    "href": "lists/playlists.html",
-    "title": "Playlists",
-    "section": "",
-    "text": "Apple Music\n\nChill Time\n\nParty Mix\n\nDivine Chants \nClassic Collection\n\nMood Setter"
-  },
-  {
-    "objectID": "lists/movies.html",
-    "href": "lists/movies.html",
-    "title": "Movies",
-    "section": "",
-    "text": "Filmography\n\nDune\nInterstellar\nOppenheimer\n\n\n\nStory"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yash Gupta",
-    "section": "",
-    "text": "Hi 👋 ! I am Yash Gupta, currently working as a Senior Data Scientist at Shiprocket in the realms of Logistics and E-Commerce.\nI have been digging data and building solutions around it for over 5 years now. My core areas of expertise is in traditional ML and I am actively venturing into the realms of Artificial Intelligence. You can find more details about me here.\nPlease feel free to reach out to me over LinkedIn or X."
+    "text": "Over the 5 years that I have been into Data Sciences and Machine Learning, the core thing I have learnt is to solve business problems. I am into building and executing solutions, that are fast paced and scalable. Unbounded by tech stacks, I aim to get systems up and running and establish quick feedback loops to generate lasting impact.\nAt Shiprocket, I have custom built data heavy and scalable ML pipelines, solving problems in realms of Tabular ML, NLP and time-series forecastings. Before this, I had a short stint at an Ed-Tech company, where I did a lot of clustering, segmentation and data crunching, besides building some dashboards (used by CxO folks). I began and evolved into data from EXL, where I transformed multiple slow and monolithic pre-existing data projects built in propriety tools into fast, modular, interpretable and user-friendly solutions.\nIn general, I command strong hold in building and setting up data intensive solutions. Some of my key projects are listed here. I also undertake courses and certifications to keep myself up to date with this rapidly evolving domain.\nI have no defined interests 🙈 and take up and try different things. Trying to keep a memoir here. Besides that, I am a watch afficionado and 🍺 buff.\nI also try to maintain some lists for my books, movies and playlists."
   }
 ]
