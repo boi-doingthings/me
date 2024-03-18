@@ -1,0 +1,16 @@
+---
+title: Certifications
+---
+
+# Technical Courses
+1. [Rust Programming](https://coursera.org/share/ef63e24c75d5d4559243cfea0fac94bd)
+2. [Machine Learning Modeling Pipelines in Production](https://coursera.org/share/9fd60cb0296eccc25bb5b9bbc5f58c6a)
+3. [Machine Learning Data Lifecycle in Production](https://coursera.org/share/5576ce410201ac00d1eb2c091dfcde96)
+4. [Marketing Analytics](https://uploads-ssl.webflow.com/609ecec14782197474bd15fc/60acd8747b0416a7a4917784_Webp.net-resizeimage.jpg)
+5. [Customer Segmentations](https://uploads-ssl.webflow.com/609ecec14782197474bd15fc/60ac10ef1774a85fbcc78b2c_certificate_seg-1.jpg)
+6. [Customer Churn Prediction](https://uploads-ssl.webflow.com/609ecec14782197474bd15fc/60ac10f2a8b5244565bcc146_predict_churn-1.jpg)
+7. [Time Series Analysis](https://uploads-ssl.webflow.com/609ecec14782197474bd15fc/60ac10f38182f1939f3f3cee_TimeSeriesAnalysis.-1.jpg)
+8. [Generalised Linear Models](https://uploads-ssl.webflow.com/609ecec14782197474bd15fc/60ac10f1dd3d2fee8f00b8b9_GLM-1.jpg)
+9. [Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) Models](https://uploads-ssl.webflow.com/609ecec14782197474bd15fc/60ac10f2fdc69c275157f904_GARCH_Models-1.jpg)
+
+

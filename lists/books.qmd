@@ -1,6 +1,32 @@
 ---
 title: Books
+format: html
 ---
 
-1. Everyday Ayurveda
-2. Freakonomics
+::: {.grid}
+
+::: {.g-col-4}
+<a href = "https://www.amazon.in/India-Bharat-Pakistan-Constitutional-Civilisation/dp/9354353010">
+<img src="https://m.media-amazon.com/images/I/71ZKMWgafjL._SY522_.jpg" alt="Book 1" width=200px height=300px>
+</a>
+:::
+
+::: {.g-col-4}
+<a href = "https://www.amazon.in/Early-Indians-Pb-Tony-Joseph/dp/9391165958/">
+<img src="https://m.media-amazon.com/images/I/71az-3d6lIL._SL1472_.jpg" alt="Early Indians " width=200px height=300px>
+</a>
+:::
+
+::: {.g-col-4}
+<a href = "https://www.amazon.in/Triology-Boxset-Perfect-Festive-Season/dp/9356294518/">
+<img src="https://m.media-amazon.com/images/I/81Oi27lSgDL._SY522_.jpg" alt="Shiva Trilogy" width=200px height=300px>
+</a>
+:::
+
+::: {.g-col-4}
+<a href = "https://www.amazon.in/India-Bharat-Pakistan-Constitutional-Civilisation/dp/9354353010">
+<img src="https://m.media-amazon.com/images/I/71ZKMWgafjL._SY522_.jpg"  alt="Book 1" width=200px height=300px>
+</a>
+:::
+
+:::
