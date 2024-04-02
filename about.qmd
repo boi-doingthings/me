@@ -10,7 +10,13 @@ In general, I command strong hold in building and setting up data intensive solu
 
 I have no defined interests 🙈 and take up and try different things. Trying to keep a memoir [here](). Besides that, I am a watch afficionado and 🍺 buff.
 
-I also try to maintain some lists for my [books](lists/books.html), [movies](lists/movies.html) and [playlists](lists/playlists.html).
+I also try to maintain some lists for my: 
+
+* [playlists 🎵 ](lists/playlists.html)  
+* [books 📖 ](lists/books.html)  
+* [movies 🎥 ](lists/movies.html)  
+* [websites 🌐 ](https://boi-doingthings.notion.site/Fun-Sites-7600b861796449598440ec6e3e949365?pvs=4){target="_blank"}
+
 
 
 

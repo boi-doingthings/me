@@ -17,6 +17,13 @@ website:
         text: Resume
       - href: https://boi-doingthings.notion.site/Curriculum-Vitae-a6e67eca3e394da38f1c10b87512b4a0
         text: CV
+        target: _blank
+      - href: https://hf.co/chat/assistant/66094d23a258db9f29b6c7eb
+        text: My Secretary
+        target: _blank
+      - href: https://heimdall.hsay.in/
+        text: Heimdall
+        target: _blank
     right: 
       - icon: twitter
         href: https://twitter.com/boi_doingthings
