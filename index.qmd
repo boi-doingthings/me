@@ -8,4 +8,4 @@ title: "Yash Gupta"
 Hi 👋 ! I am Yash Gupta, currently working as a Senior Data Scientist with an unicorn startup [Shiprocket](https://www.shiprocket.in/) in the realms of Logistics, Retail and E-Commerce.   
 I have been digging data and building solutions around it for over 5 years now. My core areas of expertise is in traditional ML and I am actively venturing into the realms of Artificial Intelligence. You can find more details about me [here](about.html).
 
-Please feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/nitkgupta/) or [X](https://twitter.com/boi_doingthings) or have a few words with my AI [assistant/secretary](https://hf.co/chat/assistant/66094d23a258db9f29b6c7eb) 😄.
+Please feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/boi-doingthings/) or [X](https://twitter.com/boi_doingthings) or have a few words with my AI [assistant/secretary](https://hf.co/chat/assistant/66094d23a258db9f29b6c7eb) 😄.
