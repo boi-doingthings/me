@@ -2,9 +2,77 @@
 title: Movies
 ---
 
-# Filmography
+### Filmography
 1. Dune
 2. Interstellar
 3. Oppenheimer
 
-# Story
+### Action
+- Mad Max: Fury Road (2015)
+- Die Hard (1988)
+- The Dark Knight (2008)
+- Gladiator (2000)
+- Terminator 2: Judgment Day (1991)
+- Raiders of the Lost Ark (1981)
+- The Matrix (1999)
+- John Wick (2014)
+
+### Drama
+- The Shawshank Redemption (1994)
+- The Godfather (1972)
+- 12 Angry Men (1957)
+- Schindler's List (1993)
+- The Godfather Part II (1974)
+- One Flew Over the Cuckoo's Nest (1975)
+- Forrest Gump (1994)
+- Parasite (2019)
+- Fight Club (1999)
+- Goodfellas (1990)
+
+### Comedy
+- Monty Python and the Holy Grail (1975)
+- Airplane! (1980)
+- The Big Lebowski (1998)
+- Dr. Strangelove (1964)
+- Some Like It Hot (1959)
+- Groundhog Day (1993)
+- Annie Hall (1977)
+- Superbad (2007)
+- The Grand Budapest Hotel (2014)
+- Tootsie (1982)
+
+### Sci-Fi
+- Blade Runner (1982)
+- 2001: A Space Odyssey (1968)
+- Star Wars: Episode IV - A New Hope (1977)
+- The Empire Strikes Back (1980)
+- Arrival (2016)
+- Interstellar (2014)
+- The Martian (2015)
+- Ex Machina (2014)
+- A Clockwork Orange (1971)
+- Minority Report (2002)
+
+### Horror
+- The Exorcist (1973)
+- Psycho (1960)
+- The Shining (1980)
+- Get Out (2017)
+- Rosemary's Baby (1968)
+- Halloween (1978)
+- Hereditary (2018)
+- The Babadook (2014)
+- A Nightmare on Elm Street (1984)
+- The Witch (2015)
+
+### Romance
+- Casablanca (1942)
+- Eternal Sunshine of the Spotless Mind (2004)
+- La La Land (2016)
+- Amélie (2001)
+- Before Sunrise (1995)
+- Titanic (1997)
+- Pride and Prejudice (2005)
+- The Notebook (2004)
+- Call Me by Your Name (2017)
+- Roman Holiday (1953)
