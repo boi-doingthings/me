@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Yash Gupta",
     "section": "",
-    "text": "Hi 👋 ! I am Yash Gupta, currently working as a Senior Data Scientist with an unicorn startup Shiprocket in the realms of Logistics, Retail and E-Commerce.\nI have been digging data and building solutions around it for over 5 years now. My core areas of expertise is in traditional ML and I am actively venturing into the realms of Artificial Intelligence. You can find more details about me here.\nPlease feel free to reach out to me over LinkedIn or X or have a few words with my AI assistant/secretary 😄."
+    "text": "Hi 👋 ! I am Yash Gupta, currently working as a Manager & Lead Data Scientist with an unicorn startup Shiprocket in the realms of Logistics, Retail and E-Commerce.\nFor over 5 years, I’ve been transforming data (big and small) across modalities into actionable insights that drive results. My core areas of expertise are in traditional Machine Learning and Deep Learning and I am actively venturing into the realms of Artificial Intelligence, more specifically Generative AI. You can find more details about me here.\nPlease feel free to reach out to me over LinkedIn or X or have a few words with my AI assistant/secretary 😄."
   },
   {
     "objectID": "lists/movies.html",
@@ -26,6 +26,13 @@
     "title": "Playlists",
     "section": "",
     "text": "Apple Music\n\nChill Time\n\nParty Mix\n\nDivine Chants \nClassic Collection\n\nMood Setter"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume and CV",
+    "section": "",
+    "text": "The upto date latest resume can be found at: https://drive.google.com/file/d/1h0VFtINFoqiNf1DJ8rpCWTyZB7l01peB/view?usp=drive_link\nThe detailed CV can be found at: https://boi-doingthings.notion.site/Curriculum-Vitae-a6e67eca3e394da38f1c10b87512b4a0"
   },
   {
     "objectID": "projects.html",
@@ -53,6 +60,6 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Over the 5 years that I have been into Data Sciences and Machine Learning, the core thing I have learnt is to solve business problems. I am into building and executing solutions, that are fast paced and scalable. Unbounded by tech stacks, I aim to get systems up and running and establish quick feedback loops to generate lasting impact.\nAt Shiprocket, I have custom built data heavy and scalable ML pipelines, solving problems in realms of Tabular ML, NLP and time-series forecastings. I am also exploring interesting use cases that can be solved with the newly emergent field of GenAI. Before this, I had a short stint at Whitehat Jr. an Ed-Tech company, where I did a lot of clustering, segmentation and data crunching, besides building some dashboards (used by CxO folks).\nI began and evolved into data from EXL, where I transformed multiple slow and monolithic pre-existing data and machine learning projects built in propriety tools into fast, modular, interpretable and user-friendly solutions.\nIn general, I command strong hold in building and setting up data intensive solutions. Some of my key projects are listed here. I also undertake courses and certifications to keep myself up to date with this rapidly evolving domain.\nI have no defined interests 🙈 and take up and try different things. Trying to keep a memoir here. Besides that, I am a watch afficionado and 🍺 buff.\nI also try to maintain some lists for my:\n\nplaylists 🎵\n\nbooks 📖\n\nmovies 🎥\n\nwebsites 🌐"
+    "text": "Over the 5 years that I have been into Data Sciences and Machine Learning, the core thing I have learnt is to solve business problems. I am into building and executing solutions, that are fast paced and scalable. Unbounded by tech stacks, I aim to get systems up and running and establish quick feedback loops to generate lasting impact.\nAt Shiprocket, I have custom built data heavy and scalable ML pipelines, solving problems in realms of Tabular ML, NLP and time-series forecastings. I am also exploring interesting use cases that can be solved with the newly emergent field of GenAI, with disrupting postive impact to existing functions across business lines. Before this, I had a short stint at Whitehat Jr. an Ed-Tech company, where I did a lot of clustering, segmentation and data crunching, besides building some dashboards (used by CxO folks).\nI began and evolved into data from EXL, where I transformed multiple slow and monolithic pre-existing data and machine learning projects built in propriety tools into fast, modular, interpretable and user-friendly solutions.\nIn general, I command strong hold in building and setting up data intensive solutions. Some of my key projects are listed here. I also undertake courses and certifications to keep myself up to date with this rapidly evolving domain.\nI have no defined interests 🙈 and take up and try different things. Trying to keep a memoir here. Besides that, I am a watch afficionado and 🍺 buff.\nI also try to maintain some lists for my:\n\nplaylists 🎵\n\nbooks 📖\n\nmovies 🎥\n\nwebsites 🌐"
   }
 ]
