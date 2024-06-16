@@ -21,8 +21,8 @@ website:
       - href: https://hf.co/chat/assistant/66094d23a258db9f29b6c7eb
         text: My Secretary
         target: _blank
-      - href: https://heimdall.hsay.in/
-        text: Heimdall
+      - href: https://blog.hsay.in/
+        text: Blog
         target: _blank
     right: 
       - icon: twitter
