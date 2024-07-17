@@ -8,9 +8,15 @@ Over time, I have got hands dirty in projects from multiple realms. Here is a sn
 ## Professional
 ### Generative AI  
 *Algo/Tools/Libraries Used:* `langchain`,`GPTs`, `OpenAI`, `Vector DataStores`,`whisper`,`gpt-4`,`LLaMA`
+ 
+* [SRT] Engineered "SR-Copilot", a RAG-based application, to streamline e-commerce and SR product interactions by
+efficiently addressing user queries and suggesting pertinent products and support ticket updates.  [Link](https://copilot.shiprocket.in/)  
 
-* A RAG application that answers customer queries around their ecommerce orders and logistic updates.
-  **Impact**: Reduced the number of agent call service requests by 7.6%.  
+* [SRT] Prototyped an automated pipeline for processing customer support calls, rating interaction quality, transcribing content,
+identifying key pointers, and assessing buyer sentiment. (ASR→NLP→TTS)  
+**Impact**: Reduced the number of agent call service requests by 7.6%.
+
+* [SRT] Created a LLM-based chat app for non-technical stakeholders, to answer & execute database queries over Snowflake and Redshift in natural language.   
 
 ### Tabular Machine Learning
 *Algo/Tools/Libraries Used:* `pandas`,`polars`,`xgboost`,`catboost`,`scikit-learn`,`rapids`,`dask`,`AWS Sagemaker`,`S3`,`ELK`

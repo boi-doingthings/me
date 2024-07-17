@@ -22,7 +22,7 @@ website:
         text: My Secretary
         target: _blank
       - href: https://blog.hsay.in/
-        text: Blog
+        text: Blog (WIP)
         target: _blank
     right: 
       - icon: twitter
