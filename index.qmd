@@ -5,10 +5,17 @@ title: "Yash Gupta"
 ![](assets/profile_pic.jpg){width="300" align=center}
 :::
 
-Hi 👋 ! I am Yash, currently working as a GPU Developer Advocate at [Nvidia](https://www.nvidia.com/en-in/) with the [OpenHackathons Group](https://www.openhackathons.org/s/).   
+Hi 👋 ! I am Yash, currently working as a GPU Developer Advocate at [Nvidia](https://www.nvidia.com/en-in/) with the [OpenHackathons Group](https://www.openhackathons.org/s/).  It is early days for me here as well, so will update more on my exact nature of work gradually ove time.   
 
 Prior to this, I was a Manager & Lead Data Scientist with an unicorn startup [Shiprocket](https://www.shiprocket.in/) in the realms of Logistics, Retail and E-Commerce.  
 
-For over 5 years, I've been transforming data (big and small) across modalities into actionable insights that drive results. My core areas of expertise are in traditional Machine Learning and Deep Learning and I am actively venturing into the realms of Artificial Intelligence, more specifically Generative AI. You can find more details about me [here](about.html).
+With over half a decade of experience, I specialize in converting diverse data sets into impactful insights, applications, and products. My expertise lies in large-scale data processing, traditional machine learning, and deep learning architectures. Currently, I'm expanding my skills in Artificial Intelligence, with a particular focus on Generative AI applications in NLP. You can find more details about me [here](about.html).
 
-Please feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/boi-doingthings/) or [X](https://twitter.com/boi_doingthings) or have a few words with my AI [assistant/secretary](https://hf.co/chat/assistant/66094d23a258db9f29b6c7eb) 😄.
+Please feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/boi-doingthings/) or [X](https://twitter.com/boi_doingthings) or have a few words with my AI [assistant/secretary](https://hf.co/chat/assistant/66094d23a258db9f29b6c7eb) 😄. I am always up for interesting challenges and projects.    
+
+  
+  
+
+
+
+This website is made possible via [Quatro](https://quarto.org/).

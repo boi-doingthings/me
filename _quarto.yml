@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Boi"
+  title: " The Boi"
   open-graph: true
   google-analytics: "G-02HGXDGX80"
   navbar:
@@ -25,7 +25,7 @@ website:
         text: Blog (WIP)
         target: _blank
     right: 
-      - icon: twitter
+      - icon: twitter-x
         href: https://twitter.com/boi_doingthings
       - icon: linkedin
         href: https://www.linkedin.com/in/boi-doingthings/
