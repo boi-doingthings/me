@@ -176,6 +176,7 @@ gtag('config', 'G-02HGXDGX80', { 'anonymize_ip': true});
   <ul>
   <li><a href="#professional" id="toc-professional" class="nav-link active" data-scroll-target="#professional">Professional</a>
   <ul class="collapse">
+  <li><a href="#open-hackathons-mentorship" id="toc-open-hackathons-mentorship" class="nav-link" data-scroll-target="#open-hackathons-mentorship">Open Hackathons Mentorship</a></li>
   <li><a href="#generative-ai" id="toc-generative-ai" class="nav-link" data-scroll-target="#generative-ai">Generative AI</a></li>
   <li><a href="#tabular-machine-learning" id="toc-tabular-machine-learning" class="nav-link" data-scroll-target="#tabular-machine-learning">Tabular Machine Learning</a></li>
   <li><a href="#natural-language-processing" id="toc-natural-language-processing" class="nav-link" data-scroll-target="#natural-language-processing">Natural Language Processing</a></li>
@@ -214,18 +215,72 @@ gtag('config', 'G-02HGXDGX80', { 'anonymize_ip': true});
 </header>
 
 
-<p>Over time, I have got hands dirty in projects from multiple realms. Here is a snapshot.</p>
+<p>Over time, I have got my hands dirty in projects from multiple realms. Here is a snapshot.</p>
 <blockquote class="blockquote">
-<p>SRT : Shiprocket || WHJ : Whitehat Jr || EXL: EXL Services || NVDA: Nvidia</p>
+<p>SRT : Shiprocket || WHJ : Whitehat Jr || EXL: EXL Services</p>
 </blockquote>
 <section id="professional" class="level2">
 <h2 class="anchored" data-anchor-id="professional">Professional</h2>
+<section id="open-hackathons-mentorship" class="level3">
+<h3 class="anchored" data-anchor-id="open-hackathons-mentorship">Open Hackathons Mentorship</h3>
+<ul>
+<li><a href="https://www.openhackathons.org/s/siteevent/a0CUP00003MPAVp2AP/se000456">Kiefer AI Open Hackathon 2026 | Athens, Greece</a> - Mentored team <strong>Big O No</strong> on GPU-accelerated NLP for Greek digital media.
+<ul>
+<li><strong>Big O No</strong>
+<ul>
+<li>Built <strong>Hellenic Insight</strong>, a real-time Greek news NLP platform for political bias and ideological framing detection.</li>
+<li>Developed an asynchronous ingestion and processing pipeline using <code>Crawl4AI</code>, <code>Scrapy</code>, <code>Kafka</code>, <code>PySpark</code>, <code>Apache Spark</code>, <code>MongoDB</code>, and <code>React</code>.</li>
+<li>Fine-tuned <code>Qwen 3.6 35B</code> with <code>LoRA</code>/<code>Unsloth</code> and served it through <code>vLLM</code>, achieving an approximately 10% F1 improvement with strong gains in right and center-right classification quality.</li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.openhackathons.org/s/siteevent/a0CUP00001FSddg2AD/se000394">AI for Science Australian Hackathon 2026 | Melbourne, Australia</a> - Mentored teams <strong>WA-Ag Futures</strong> and <strong>Team_MCCG</strong> on GPU-accelerated AI for science workloads.
+<ul>
+<li><strong>WA-Ag Futures</strong>
+<ul>
+<li>Built <strong>WA Ag-LandInsight</strong>, a paddock-level agricultural intelligence platform for Western Australia’s wheatbelt.</li>
+<li>Processed approximately 2TB of spatial data in about 14 minutes, achieving 20x faster preprocessing and reducing model training from hours to about 2 minutes.</li>
+<li>Applied <code>RAPIDS</code>, <code>cuDF</code>, <code>cuML</code>, <code>CuPy</code>, <code>XGBoost</code>, <code>PyTorch</code>, <code>NIM</code>/<code>Nemotron</code>, and dashboarding patterns to deliver decision-ready insights for farmers and policymakers.</li>
+</ul></li>
+<li><strong>Team_MCCG</strong>
+<ul>
+<li>Optimised physics-based ML workflows for chemical property prediction across LDA+, QPep, and related computational chemistry models.</li>
+<li>Achieved a 3.0x speedup for the LDA+ model and a 2.7x reduction in QPep training time through PyTorch refactoring, data-loading improvements, and multi-GPU scaling.</li>
+<li>Used <code>PyTorch</code>, <code>Nsight Systems</code>, and profiling-guided software architecture improvements to connect multiple chemical ML models through a prototype GUI platform.</li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.openhackathons.org/s/siteevent/a0CUP00001FSe3d2AD/se000392">India Open Hackathon 2025 | Mumbai, India</a> - Mentored team <strong>IMD_AIML</strong> on GPU-accelerated AI for weather and climate applications.
+<ul>
+<li><strong>IMD_AIML</strong>
+<ul>
+<li>Built an AI-for-weather workflow to estimate surface and maximum air temperature from satellite and in-situ meteorological datasets for heat-risk applications.</li>
+<li>Combined IMD observations, AWS/synoptic station data, LST, OLR, NDVI, DEM, and LULC features to improve spatial estimates beyond station-only coverage.</li>
+<li>Explored <code>PyTorch</code>, <code>TensorFlow</code>, <code>XGBoost</code>, <code>Transformers</code>, <code>ESRGAN</code>/<code>SRGAN</code>, <code>xarray</code>, <code>netCDF4</code>, <code>GeoPandas</code>, and A100 GPU resources for satellite downscaling and trustworthy temperature modeling.</li>
+</ul></li>
+</ul></li>
+<li>India GSI Open Hackathon 2025 | Bengaluru, India - Mentored team <strong>GenSureAI</strong> on agentic AI for insurance claims processing.
+<ul>
+<li><strong>GenSureAI</strong>
+<ul>
+<li>Won the hackathon with a multi-agent RAG workflow for medical insurance claim summarization, discrepancy detection, and adjuster decision support.</li>
+<li>Built pipelines to flag non-pertinent medical bills, summarize claim timelines, and support claims Q&amp;A, with the team estimating more than 50% reduction in analysis time.</li>
+<li>Used <code>NVIDIA NIM</code>, <code>NeMo Retriever</code>, <code>NeMo Agent Toolkit</code>/<code>AIQ</code>, <code>LangChain</code>, <code>LangGraph</code>, <code>Milvus</code>, <code>Streamlit</code>, <code>FastAPI</code>, <code>PyMuPDF</code>, <code>Tesseract</code>, <code>FAISS</code>, and models including <code>Llama 3.3 Nemotron</code>, <code>Palmyra Med</code>, and <code>Kimi K2</code>.</li>
+</ul></li>
+</ul></li>
+<li><a href="https://fptcloud.com/6-y-tuong-cong-nghe-thuc-tien-fpt-ai-open-hackathon/">FPT AI Open Hackathon 2025 | Hanoi, Vietnam</a> - Mentored team <strong>Jarvis AI</strong> on multimodal agentic AI for customer support workflows.
+<ul>
+<li><strong>Jarvis AI</strong>
+<ul>
+<li>Built a multichannel AI assistant that centralizes customer requests from channels such as email, social platforms, hotlines, Zalo, Messenger, and WhatsApp into a unified support workflow.</li>
+<li>Integrated FPT AI Marketplace models into the application and built a <code>GraphRAG</code> pipeline for document-based Q&amp;A, business-wide search, summarization, and synthesis.</li>
+<li>Used <code>LlamaIndex</code>, <code>ReactJS</code>, browser-extension context, and models including <code>Qwen2.5-Coder-32B-Instruct</code>, <code>DeepSeek-R1-Distill-Llama-70B</code>, <code>Qwen3-32B</code>, and SaoLa Llama variants to improve answer accuracy and support smarter human handoff.</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
 <section id="generative-ai" class="level3">
 <h3 class="anchored" data-anchor-id="generative-ai">Generative AI</h3>
 <p><em>Algo/Tools/Libraries Used:</em> <code>langchain</code>,<code>GPTs</code>, <code>OpenAI</code>, <code>Vector DataStores</code>,<code>whisper</code>,<code>gpt-4</code>,<code>LLaMA</code></p>
 <ul>
-<li><p>[NVDA] Advanced RAG System for Comprehensive Code Analysis and Generation</p></li>
-<li><p>[NVDA] Advanced Multimodal Assistant with Dynamic Information Retrieval</p></li>
 <li><p>[SRT] Engineered “SR-Copilot”, a RAG-based application, to streamline e-commerce and SR product interactions by efficiently addressing user queries and suggesting pertinent products and support ticket updates. <a href="https://copilot.shiprocket.in/">Link</a></p></li>
 <li><p>[SRT] Prototyped an automated pipeline for processing customer support calls, rating interaction quality, transcribing content, identifying key pointers, and assessing buyer sentiment. (ASR→NLP→TTS)<br>
 <strong>Impact</strong>: Reduced the number of agent call service requests by 7.6%.</p></li>
@@ -236,13 +291,12 @@ gtag('config', 'G-02HGXDGX80', { 'anonymize_ip': true});
 <h3 class="anchored" data-anchor-id="tabular-machine-learning">Tabular Machine Learning</h3>
 <p><em>Algo/Tools/Libraries Used:</em> <code>pandas</code>,<code>polars</code>,<code>xgboost</code>,<code>catboost</code>,<code>scikit-learn</code>,<code>rapids</code>,<code>dask</code>,<code>AWS Sagemaker</code>,<code>S3</code>,<code>ELK</code></p>
 <ul>
-<li>[SRT] An ML pipeline that predicts a customers propensity to reject an ecommerce order at delivery. <a href="https://www.shiprocket.in/sense/">Link</a><br>
-<strong>Impact</strong>: Saved over 35MM in shipping costs for over 250+ D2C sellers.</li>
+<li>[SRT] An ML pipeline that predicts a customer’s propensity to reject an e-commerce order at delivery. <a href="https://www.shiprocket.in/sense/">Link</a><br> <strong>Impact</strong>: Saved over 35MM in shipping costs for over 250+ D2C sellers.</li>
 <li>[SRT] An ML solution combining NLP and tabular data analysis to identify fraudulent seller behaviors.<br>
 <strong>Impact</strong>: Achieved 18% reduction in fraud cases of multiple categories (KYC, Weight Fraud etc).</li>
 <li>[WHJ] A classifier model to identify promising retention leads for sales pitch prioritization.<br>
 <strong>Impact</strong>: Enhanced retention performance by 8%.</li>
-<li>[EXL] A suite of 12 ML models for an insurance client, that aims to mark a potential customers:
+<li>[EXL] A suite of 12 ML models for an insurance client that aims to mark a potential customer’s:
 <ul>
 <li>propensity to respond and convert to a marketing campaign.</li>
 <li>estimated chargeable premium and loss ratio, if converted.<br>
@@ -255,8 +309,7 @@ Implemented an automated 1-window customer selection and offer allocation framew
 <h3 class="anchored" data-anchor-id="natural-language-processing">Natural Language Processing</h3>
 <p><em>Algo/Tools/Libraries Used:</em> <code>PyTorch</code>, <code>BERT</code>, <code>Word2Vec</code>, <code>NER</code>, <code>nltk</code>, <code>flashtext</code>, <code>gensim</code>, <code>rapidfuzz</code>,<code>transformers</code>,<code>sentiment analysis</code>,<code>semantic search</code>, <code>clustering</code>, <code>text similarity</code></p>
 <ul>
-<li>[SRT] An unsupervised learning framework to enchance, standardise and validate over 6MM delivery addresses.<br>
-<strong>Impact</strong>: A SoTA address intelligence agent that can successfully parse over 100K localities from 500+ Indian districts.</li>
+<li>[SRT] An unsupervised learning framework to enhance, standardise and validate over 6MM delivery addresses.<br> <strong>Impact</strong>: A SoTA address intelligence agent that can successfully parse over 100K localities from 500+ Indian districts.</li>
 <li>[SRT] Developed an address deduplication and syntax correction pipeline, whole suite led to +20% increased deliveries.<br>
 <strong>Impact</strong>: Successful identification of customers belonging to same household, leading to enhanced customer segmentations.<br>
 </li>
@@ -288,7 +341,7 @@ Implemented an automated 1-window customer selection and offer allocation framew
 <ul>
 <li>[ALL] Data Pipelines to establish data for training and to update the features for inference.</li>
 <li>[ALL] Custom dashboards and reports in GSheets and Tableau to track performance of models and raise flags for changes.</li>
-<li>[EXL] Uncoverted unoptimised SAS-based code to R and Python modules, for faster processing and cheaper executions by saving license costs.</li>
+<li>[EXL] Converted unoptimised SAS-based code to R and Python modules for faster processing and cheaper executions by saving license costs.</li>
 <li>[EXL] Optimised SQL data processing pipelines from Oracle to Redshift.</li>
 </ul>
 </section>
@@ -298,20 +351,20 @@ Implemented an automated 1-window customer selection and offer allocation framew
 <section id="generative-ai-1" class="level3">
 <h3 class="anchored" data-anchor-id="generative-ai-1">Generative AI</h3>
 <ul>
-<li>A audio to text ML app that converts expenses to JSON and builds a custom report. <a href="https://huggingface.co/spaces/boi-doingthings/expense-converter">Link</a></li>
+<li>An audio-to-text ML app that converts expenses to JSON and builds a custom report. <a href="https://huggingface.co/spaces/boi-doingthings/expense-converter">Link</a></li>
 </ul>
 </section>
 <section id="software-development" class="level3">
 <h3 class="anchored" data-anchor-id="software-development">Software Development</h3>
 <ul>
-<li>A bot that sends automated verses from Bhagvad Gita to a custom self maintained mailing lists.</li>
+<li>A bot that sends automated verses from Bhagavad Gita to a custom self-maintained mailing list.</li>
 <li>An <a href="https://github.com/boi-doingthings/raspi-stack">attempt</a> to run a local file hosting via <a href="https://hub.docker.com/_/nextcloud">NextCloud</a> and ad-blocker, pihole over my Raspberry Pi.</li>
 </ul>
 </section>
 <section id="self-hosting" class="level3">
 <h3 class="anchored" data-anchor-id="self-hosting">Self Hosting</h3>
 <ul>
-<li>A dedicated setup running commonly used apps over a on premise system and exposed to custom domain. <a href="heimdall.hsay.in">Link</a>
+<li>A dedicated setup running commonly used apps over an on-premise system and exposed to a custom domain. <a href="https://heimdall.hsay.in">Link</a>
 <ul>
 <li>Github: <a href="https://github.com/boi-doingthings/self-hosted-stack">Repo</a></li>
 </ul></li>
