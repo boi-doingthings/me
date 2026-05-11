@@ -1,11 +1,42 @@
 ---
 title: "Projects"
 ---
-Over time, I have got hands dirty in projects from multiple realms. Here is a snapshot.
+Over time, I have got my hands dirty in projects from multiple realms. Here is a snapshot.
 
 > SRT : Shiprocket  || WHJ : Whitehat Jr || EXL: EXL Services
 
 ## Professional
+### Open Hackathons Mentorship
+* [Kiefer AI Open Hackathon 2026 | Athens, Greece](https://www.openhackathons.org/s/siteevent/a0CUP00003MPAVp2AP/se000456) - Mentored team **Big O No** on GPU-accelerated NLP for Greek digital media.
+  - **Big O No**
+    - Built **Hellenic Insight**, a real-time Greek news NLP platform for political bias and ideological framing detection.
+    - Developed an asynchronous ingestion and processing pipeline using `Crawl4AI`, `Scrapy`, `Kafka`, `PySpark`, `Apache Spark`, `MongoDB`, and `React`.
+    - Fine-tuned `Qwen 3.6 35B` with `LoRA`/`Unsloth` and served it through `vLLM`, achieving an approximately 10% F1 improvement with strong gains in right and center-right classification quality.
+* [AI for Science Australian Hackathon 2026 | Melbourne, Australia](https://www.openhackathons.org/s/siteevent/a0CUP00001FSddg2AD/se000394) - Mentored teams **WA-Ag Futures** and **Team_MCCG** on GPU-accelerated AI for science workloads.
+  - **WA-Ag Futures**
+    - Built **WA Ag-LandInsight**, a paddock-level agricultural intelligence platform for Western Australia's wheatbelt.
+    - Processed approximately 2TB of spatial data in about 14 minutes, achieving 20x faster preprocessing and reducing model training from hours to about 2 minutes.
+    - Applied `RAPIDS`, `cuDF`, `cuML`, `CuPy`, `XGBoost`, `PyTorch`, `NIM`/`Nemotron`, and dashboarding patterns to deliver decision-ready insights for farmers and policymakers.
+  - **Team_MCCG**
+    - Optimised physics-based ML workflows for chemical property prediction across LDA+, QPep, and related computational chemistry models.
+    - Achieved a 3.0x speedup for the LDA+ model and a 2.7x reduction in QPep training time through PyTorch refactoring, data-loading improvements, and multi-GPU scaling.
+    - Used `PyTorch`, `Nsight Systems`, and profiling-guided software architecture improvements to connect multiple chemical ML models through a prototype GUI platform.
+* [India Open Hackathon 2025 | Mumbai, India](https://www.openhackathons.org/s/siteevent/a0CUP00001FSe3d2AD/se000392) - Mentored team **IMD_AIML** on GPU-accelerated AI for weather and climate applications.
+  - **IMD_AIML**
+    - Built an AI-for-weather workflow to estimate surface and maximum air temperature from satellite and in-situ meteorological datasets for heat-risk applications.
+    - Combined IMD observations, AWS/synoptic station data, LST, OLR, NDVI, DEM, and LULC features to improve spatial estimates beyond station-only coverage.
+    - Explored `PyTorch`, `TensorFlow`, `XGBoost`, `Transformers`, `ESRGAN`/`SRGAN`, `xarray`, `netCDF4`, `GeoPandas`, and A100 GPU resources for satellite downscaling and trustworthy temperature modeling.
+* India GSI Open Hackathon 2025 | Bengaluru, India - Mentored team **GenSureAI** on agentic AI for insurance claims processing.
+  - **GenSureAI**
+    - Won the hackathon with a multi-agent RAG workflow for medical insurance claim summarization, discrepancy detection, and adjuster decision support.
+    - Built pipelines to flag non-pertinent medical bills, summarize claim timelines, and support claims Q&A, with the team estimating more than 50% reduction in analysis time.
+    - Used `NVIDIA NIM`, `NeMo Retriever`, `NeMo Agent Toolkit`/`AIQ`, `LangChain`, `LangGraph`, `Milvus`, `Streamlit`, `FastAPI`, `PyMuPDF`, `Tesseract`, `FAISS`, and models including `Llama 3.3 Nemotron`, `Palmyra Med`, and `Kimi K2`.
+* [FPT AI Open Hackathon 2025 | Hanoi, Vietnam](https://fptcloud.com/6-y-tuong-cong-nghe-thuc-tien-fpt-ai-open-hackathon/) - Mentored team **Jarvis AI** on multimodal agentic AI for customer support workflows.
+  - **Jarvis AI**
+    - Built a multichannel AI assistant that centralizes customer requests from channels such as email, social platforms, hotlines, Zalo, Messenger, and WhatsApp into a unified support workflow.
+    - Integrated FPT AI Marketplace models into the application and built a `GraphRAG` pipeline for document-based Q&A, business-wide search, summarization, and synthesis.
+    - Used `LlamaIndex`, `ReactJS`, browser-extension context, and models including `Qwen2.5-Coder-32B-Instruct`, `DeepSeek-R1-Distill-Llama-70B`, `Qwen3-32B`, and SaoLa Llama variants to improve answer accuracy and support smarter human handoff.
+
 ### Generative AI  
 *Algo/Tools/Libraries Used:* `langchain`,`GPTs`, `OpenAI`, `Vector DataStores`,`whisper`,`gpt-4`,`LLaMA`
  
@@ -21,13 +52,13 @@ identifying key pointers, and assessing buyer sentiment. (ASR→NLP→TTS)
 ### Tabular Machine Learning
 *Algo/Tools/Libraries Used:* `pandas`,`polars`,`xgboost`,`catboost`,`scikit-learn`,`rapids`,`dask`,`AWS Sagemaker`,`S3`,`ELK`
 
-* [SRT] An ML pipeline that predicts a customers propensity to reject an ecommerce order at delivery. [Link](https://www.shiprocket.in/sense/)  
+* [SRT] An ML pipeline that predicts a customer's propensity to reject an e-commerce order at delivery. [Link](https://www.shiprocket.in/sense/)<br>
   **Impact**: Saved over 35MM in shipping costs for over 250+ D2C sellers.
 * [SRT] An ML solution combining NLP and tabular data analysis to identify fraudulent seller behaviors.  
   **Impact**: Achieved 18% reduction in fraud cases of multiple categories (KYC, Weight Fraud etc).
 * [WHJ] A classifier model to identify promising retention leads for sales pitch prioritization.  
   **Impact**: Enhanced retention performance by 8%. 
-* [EXL] A suite of 12 ML models for an insurance client, that aims to mark a potential customers:  
+* [EXL] A suite of 12 ML models for an insurance client that aims to mark a potential customer's:
   - propensity to respond and convert to a marketing campaign.
   - estimated chargeable premium and loss ratio, if converted.  
   Implemented an automated 1-window customer selection and offer allocation framework on top of models.    
@@ -37,7 +68,7 @@ identifying key pointers, and assessing buyer sentiment. (ASR→NLP→TTS)
 ### Natural Language Processing
 *Algo/Tools/Libraries Used:* `PyTorch`, `BERT`, `Word2Vec`, `NER`, `nltk`, `flashtext`, `gensim`, `rapidfuzz`,`transformers`,`sentiment analysis`,`semantic search`, `clustering`, `text similarity`
 
-* [SRT] An unsupervised learning framework to enchance, standardise and validate over 6MM delivery addresses.  
+* [SRT] An unsupervised learning framework to enhance, standardise and validate over 6MM delivery addresses.<br>
   **Impact**: A SoTA address intelligence agent that can successfully parse over 100K localities from 500+ Indian districts.
 * [SRT] Developed an address deduplication and syntax correction pipeline, whole suite led to +20% increased deliveries.  
   **Impact**: Successful identification of customers belonging to same household, leading to enhanced customer segmentations.  
@@ -62,21 +93,19 @@ identifying key pointers, and assessing buyer sentiment. (ASR→NLP→TTS)
 
 * [ALL] Data Pipelines to establish data for training and to update the features for inference.
 * [ALL] Custom dashboards and reports in GSheets and Tableau to track performance of models and raise flags for changes.
-* [EXL] Uncoverted unoptimised SAS-based code to R and Python modules, for faster processing and cheaper executions by saving license costs.
+* [EXL] Converted unoptimised SAS-based code to R and Python modules for faster processing and cheaper executions by saving license costs.
 * [EXL] Optimised SQL data processing pipelines from Oracle to Redshift.
 
 
 ## Personal 
 
 ### Generative AI    
-* A audio to text ML app that converts expenses to JSON and builds a custom report. [Link](https://huggingface.co/spaces/boi-doingthings/expense-converter)  
+* An audio-to-text ML app that converts expenses to JSON and builds a custom report. [Link](https://huggingface.co/spaces/boi-doingthings/expense-converter)
     
 ### Software Development    
-* A bot that sends automated verses from Bhagvad Gita to a custom self maintained mailing lists.
+* A bot that sends automated verses from Bhagavad Gita to a custom self-maintained mailing list.
 * An [attempt](https://github.com/boi-doingthings/raspi-stack) to run a local file hosting via [NextCloud](https://hub.docker.com/_/nextcloud) and ad-blocker, pihole over my Raspberry Pi.        
 
 ### Self Hosting
-* A dedicated setup running commonly used apps over a on premise system and exposed to custom domain. [Link](heimdall.hsay.in)
+* A dedicated setup running commonly used apps over an on-premise system and exposed to a custom domain. [Link](https://heimdall.hsay.in)
   * Github: [Repo](https://github.com/boi-doingthings/self-hosted-stack) 
-
-

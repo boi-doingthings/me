@@ -3,17 +3,19 @@ title: "About Me"
 ---
 I appreciate your interest in learning more about me. While this space offers a glimpse, I believe in the value of genuine professional connections. I welcome you to reach out via my social channels, where we can engage in meaningful discussions about our experiences, insights, and potentially explore collaborative opportunities in our field.
 
-Over the 5 years that I have been into Data Sciences and Machine Learning, the core thing I have learnt is to solve business problems. I am into building and executing solutions, that are fast paced and scalable. Unbounded by tech stacks, I aim to get systems up and running and establish quick feedback loops to generate lasting impact.
+I currently work as a GPU Developer Advocate at [NVIDIA](https://www.nvidia.com/en-in/) with the [OpenHackathons Group](https://www.openhackathons.org/s/), where I help developers, researchers, and industry teams move AI and scientific workloads closer to production-grade GPU acceleration. A large part of my work involves mentoring hackathon teams, building technical enablement material, and helping people reason through performance, deployment, and architecture choices.
 
-At [Shiprocket](https://www.shiprocket.in/), I have custom built data heavy and scalable ML pipelines, solving problems in realms of Tabular ML, NLP and time-series forecastings. I am also exploring interesting use cases that can be solved with the newly emergent field of GenAI, with disrupting postive impact to existing functions across business lines.   
+Across 7+ years in data science, machine learning, and developer advocacy, the core thing I have learnt is to solve real problems with systems that can survive contact with messy data, changing requirements, and real users. I like building fast feedback loops: get the first useful version running, measure what matters, then keep tightening the solution.
 
-Before this, I had a short stint at [Whitehat Jr.](https://www.whitehatjr.com/) an Ed-Tech company, where I did a lot of clustering, segmentation and data crunching, besides building some dashboards (used by CxO folks).  
+My current technical focus is Generative AI beyond the demo layer: RAG, LLM inference, model deployment, multi-agent workflows, and agentic AI applications that can use tools, retrieve knowledge, coordinate tasks, and fit into practical business or research workflows. I also continue to work across large-scale data processing, traditional machine learning, deep learning, and GPU-accelerated Python workflows.
 
-I began and evolved into data from [EXL](https://www.exlservice.com/), where I transformed multiple slow and monolithic pre-existing data and machine learning projects built in propriety tools into fast, modular, interpretable and user-friendly solutions.
+Before NVIDIA, I was a Manager & Lead Data Scientist at [Shiprocket](https://www.shiprocket.in/), where I built data-heavy and scalable ML pipelines across Tabular ML, NLP, logistics intelligence, fraud detection, address intelligence, and time-series forecasting.
 
-In general, I command strong hold in building and setting up data intensive solutions. Some of my key projects are listed [here](projects.html). I also undertake courses and [certifications](certificates.html) to keep myself up to date with this rapidly evolving domain. 
+Before that, I had a short stint at [Whitehat Jr.](https://www.whitehatjr.com/), an EdTech company, where I worked on clustering, segmentation, data crunching, and dashboards used by CxO teams. I began and evolved into data at [EXL](https://www.exlservice.com/), where I transformed slow, monolithic projects built in proprietary tools into faster, modular, interpretable, and user-friendly solutions.
 
-I have no defined interests 🙈 and take up and try different things. Trying to keep a memoir [here](https://www.instagram.com/boi_doingthings). Besides that, I am a watch afficionado and 🍺 buff.
+Some of my key projects are listed [here](projects.html). I also undertake courses and [certifications](certificates.html) to keep myself up to date with this rapidly evolving domain.
+
+I have no defined interests 🙈 and take up and try different things. Trying to keep a memoir [here](https://www.instagram.com/boi_doingthings). Besides that, I am a watch aficionado and 🍺 buff.
 
 I also try to maintain some lists for my: 
 
@@ -23,8 +25,6 @@ I also try to maintain some lists for my:
 * [websites 🌐 ](https://boi-doingthings.notion.site/Fun-Sites-7600b861796449598440ec6e3e949365?pvs=4){target="_blank"}
 
 
-On most platforms, you'll see my going by the alias, `boi-doingthings`
-
-
+On most platforms, you'll see me going by the alias `boi-doingthings`.
 
 
